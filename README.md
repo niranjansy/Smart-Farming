@@ -5,4 +5,5 @@ This is the website for the Smart Farming application, where we plan to use a we
 This has been proposed by Team Alpha, comprising:
 * Aditya C
 * Niranjan S Yadiyala
-<br> as part of HAC SAC 2020. 
+
+as part of HAC SAC 2020. 
